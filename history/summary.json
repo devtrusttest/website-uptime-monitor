@@ -4,18 +4,20 @@
     "url": "https://devtrust.biz",
     "icon": "https://icons.duckduckgo.com/ip3/devtrust.biz.ico",
     "slug": "dev-trust-main-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1118,
-    "timeDay": 1118,
-    "timeWeek": 1118,
-    "timeMonth": 1118,
-    "timeYear": 1118,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "79.61%",
+    "uptimeDay": "79.61%",
+    "uptimeWeek": "79.61%",
+    "uptimeMonth": "79.61%",
+    "uptimeYear": "79.61%",
+    "time": 1136,
+    "timeDay": 1136,
+    "timeWeek": 1136,
+    "timeMonth": 1136,
+    "timeYear": 1136,
+    "dailyMinutesDown": {
+      "2025-11-26": 19
+    }
   },
   {
     "name": "RDT API",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/seller-openai.devtrust.biz.ico",
     "slug": "seller-open-ai",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 954,
     "timeDay": 954,
     "timeWeek": 954,
     "timeMonth": 954,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2025-11-26": 74
+      "2025-11-26": 93
     }
   },
   {
@@ -72,7 +74,7 @@
     "timeMonth": 915,
     "timeYear": 915,
     "dailyMinutesDown": {
-      "2025-11-26": 74
+      "2025-11-26": 92
     }
   }
 ]

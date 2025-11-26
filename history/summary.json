@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1111,
-    "timeDay": 1111,
-    "timeWeek": 1111,
-    "timeMonth": 1111,
-    "timeYear": 1111,
+    "time": 1118,
+    "timeDay": 1118,
+    "timeWeek": 1118,
+    "timeMonth": 1118,
+    "timeYear": 1118,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1415,
-    "timeDay": 1415,
-    "timeWeek": 1415,
-    "timeMonth": 1415,
-    "timeYear": 1415,
+    "time": 1385,
+    "timeDay": 1385,
+    "timeWeek": 1385,
+    "timeMonth": 1385,
+    "timeYear": 1385,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/seller-openai.devtrust.biz.ico",
     "slug": "seller-open-ai",
     "status": "down",
-    "uptime": "11.93%",
-    "uptimeDay": "11.93%",
-    "uptimeWeek": "11.93%",
-    "uptimeMonth": "11.93%",
-    "uptimeYear": "11.93%",
-    "time": 968,
-    "timeDay": 968,
-    "timeWeek": 968,
-    "timeMonth": 968,
-    "timeYear": 968,
+    "uptime": "0.19%",
+    "uptimeDay": "0.19%",
+    "uptimeWeek": "0.19%",
+    "uptimeMonth": "0.19%",
+    "uptimeYear": "0.19%",
+    "time": 954,
+    "timeDay": 954,
+    "timeWeek": 954,
+    "timeMonth": 954,
+    "timeYear": 954,
     "dailyMinutesDown": {
-      "2025-11-26": 0
+      "2025-11-26": 9
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pcm-url-check.devtrust.biz.ico",
     "slug": "pcm-url-check",
     "status": "down",
-    "uptime": "7.06%",
-    "uptimeDay": "7.06%",
-    "uptimeWeek": "7.06%",
-    "uptimeMonth": "7.06%",
-    "uptimeYear": "7.06%",
-    "time": 757,
-    "timeDay": 757,
-    "timeWeek": 757,
-    "timeMonth": 757,
-    "timeYear": 757,
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
+    "time": 915,
+    "timeDay": 915,
+    "timeWeek": 915,
+    "timeMonth": 915,
+    "timeYear": 915,
     "dailyMinutesDown": {
-      "2025-11-26": 0
+      "2025-11-26": 9
     }
   }
 ]

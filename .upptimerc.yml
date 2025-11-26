@@ -13,7 +13,7 @@ sites:
   # Add all 50+ websites here
 
 status-website:
-  cname: status.devtrust.biz  # Optional: custom domain
+  # cname: status.devtrust.biz  # Optional: custom domain
   logoUrl: https://devtrust.biz/_next/static/media/devtrust-logo.0ee0a186.svg
   name: DevTrust Status
   introTitle: "Website Uptime Monitor"

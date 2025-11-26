@@ -41,17 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/seller-openai.devtrust.biz.ico",
     "slug": "seller-open-ai",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "11.93%",
+    "uptimeDay": "11.93%",
+    "uptimeWeek": "11.93%",
+    "uptimeMonth": "11.93%",
+    "uptimeYear": "11.93%",
     "time": 968,
     "timeDay": 968,
     "timeWeek": 968,
     "timeMonth": 968,
     "timeYear": 968,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-26": 0
+    }
   },
   {
     "name": "PCM URL Check",
@@ -59,16 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pcm-url-check.devtrust.biz.ico",
     "slug": "pcm-url-check",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "7.06%",
+    "uptimeDay": "7.06%",
+    "uptimeWeek": "7.06%",
+    "uptimeMonth": "7.06%",
+    "uptimeYear": "7.06%",
     "time": 757,
     "timeDay": 757,
     "timeWeek": 757,
     "timeMonth": 757,
     "timeYear": 757,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-26": 0
+    }
   }
 ]

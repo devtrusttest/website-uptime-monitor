@@ -4,19 +4,19 @@
     "url": "https://devtrust.biz",
     "icon": "https://icons.duckduckgo.com/ip3/devtrust.biz.ico",
     "slug": "dev-trust-main-site",
-    "status": "down",
-    "uptime": "98.67%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "98.67%",
-    "time": 1096,
-    "timeDay": 1034,
-    "timeWeek": 1096,
-    "timeMonth": 1096,
-    "timeYear": 1096,
+    "status": "up",
+    "uptime": "98.29%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "98.29%",
+    "time": 1134,
+    "timeDay": 1143,
+    "timeWeek": 1134,
+    "timeMonth": 1134,
+    "timeYear": 1134,
     "dailyMinutesDown": {
-      "2025-11-27": 6,
+      "2025-11-27": 14,
       "2025-11-26": 19
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 2470,
     "timeYear": 2470,
     "dailyMinutesDown": {
-      "2025-11-27": 1220,
+      "2025-11-27": 1234,
       "2025-11-26": 675
     }
   },
@@ -76,7 +76,7 @@
     "timeMonth": 910,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2025-11-27": 1220,
+      "2025-11-27": 1234,
       "2025-11-26": 675
     }
   }
